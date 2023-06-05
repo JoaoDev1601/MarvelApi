@@ -1,0 +1,985 @@
+[
+    {
+        "id": 34,
+        "titulo": "WandaVision",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6DAA31D2EAD43853A24CCBD79A8C38E0EF299DEBEF59CC4100544C65AACC252D/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.9,
+	    "detalhes": [
+            {
+                "sinopse":"Ao viverem sua vida suburbana ideal, Wanda Maximoff e Vision começam a suspeitar que as coisas não são o que parecem",
+                "duracao": "30min",
+                "data de lacamento":"2021",
+                "genero":"Romance, Drama, Ficção Científica, Fantasia, Super-Heróis",
+                "classificacao":"12",
+                "classificacao temp.1": "12",
+                "elenco":"Elizabeth Olsen, Paul Bettany, Teyonah Parris, Kathryn Hahn, Randall Park, Kat Dennings"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Gravado ao Vivo com Plateia",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/680F7F7D1BBF721390D0B47E1A562326CD5142D068DB7A8CFD023BA5D60B0B0B/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.3,
+                        "duracao": "31min",
+                        "sinopse": "Wanda e Visão tentam esconder seus poderes durante um jantar com o chefe de Visão e sua esposa",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Não Mude de Canal",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C64DE03E04C7DA5BE90E30CD9E9D41179EBA19FE21CB8550BECED020D6BC1593/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.6,
+                        "duracao": "39min",
+                        "sinopse": "Wanda e Visão fazem truques de magica em um show de talentos beneficente para tentar se enturmar",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Agora em Cores",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BAF505BF7B3795CBC278DA4040E407FFE94610F01194628FCDF627E0B4FF7526/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.0,
+                        "duracao": "35min",
+                        "sinopse": "Com a gravidez, os poderes de Wanda fogem do controle e a dupla se prepara para um parto acelerado",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Interrompemos este Programa",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/04052400EE2325FD531B74ECEFECF761A47A7446DA4672369BD66F01FB0C1947/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.7,
+                        "duracao": "37min",
+                        "sinopse": "Mônica Rambeau desaparece durante uma missão especial relacionada a armas sencientes",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Em um Episódio Muito Especial...",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/193482914D9B1BC1E9684251E1AF95FF27D3F619C518BA41225A35691168C2CA/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.9,
+                        "duracao": "43min",
+                        "sinopse": "Wanda analisa as preocupações de Visão, que desconfia do estranho comportamento dos vizinhos",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Um Halloween Assustadoramente Inédito!",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B8B630A1ECDC2696E2C70FEE4D9BA205AA70373A7F8F412A27B183ACB83F0793/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.7,
+                        "duracao": "40min",
+                        "sinopse": "Imprevistos no Halloween separam Wanda de Visão, que investiga atividades anômolas em Westview",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"Derrubando a Quarta Parede",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/04D1E15517E9788E038E56BB95348698D324FA020F24A2AECDD8F407E3A2BF4E/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.3,
+                        "duracao": "39min",
+                        "sinopse": "Mônica planeja seu retorno enquanto Wanda tem complicações, e Visão forma uma nova aliança",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"Nos Capítulos Anteriores",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/78DFD02FA2360FBB23BF34311EF142BC790C15ED392087E5642B8EC0A546C7A3/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.9,
+                        "duracao": "48min",
+                        "sinopse": "Wanda embarca em uma viagem ao passado para compreender melhor o presente e o futuro",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"O Grande Final",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/60A67879E2B28AC054E94C623684BAF849A76049430A5BE36CA597B7394A0331/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.3,
+                        "duracao": "51min",
+                        "sinopse": "Os acontecimentos chegam a um momento culminante e o destino de todos é determinado",
+                        "classificacao":"12"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 35,
+        "titulo": "Falcão e o Soldado Invernal",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D0BAC0B6DDEDD66EF78DCDF1DAACE0BC4A4036D3782C916966537122D6B8BB1/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.1,
+	    "detalhes": [
+            {
+                "sinopse":"Uma produção da Disney e da Marvel Studios, estrelando os personagens carismáticos Falcão e Soldado Invernal",
+                "duracao": "50min",
+                "data de lacamento":"2021",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura, Amizade",
+                "classificacao":"14",
+                "classificacao temp.1": "14",
+                "criacao":"Malcolm Spellman",
+                "elenco":"Sebastian Stan, Anthony Mackie, Daniel Bruhl, Emily VanCamp, Wyatt Russel, Erin Kellyman"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Nova Ordem Mundial",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D1D3B581E7C6145E9D56AA5D7B32D3C1B3AE9A1B02747D321A19DA3AB81C55E/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.6,
+                        "duracao": "51min",
+                        "sinopse": "Sam Wilson e Bucky Barnes percebem que seu futuro não tem nada de normal",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"O Herói Americano",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FFBA777C209C06702F46AA3B618E3EAFEACF39E18C72F3BF65F54C1373A3F18C/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.7,
+                        "duracao": "52min",
+                        "sinopse": "John Walker é nomeado Capitão América, e Sam e Bucky unem forças contra um grupo de rebeldes",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Mercador do Poder",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6DA2B4C83B77F76825FAED297CA4A2DADD358A2FF19658D3D11764F35DDC4402/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.8,
+                        "duracao": "55min",
+                        "sinopse": "Sam e Bucky vão a um refúgio de criminosos em busca de informações sobre o soro do supersoldade",
+                        "classificacao":"14"
+                    }
+                ],
+                "e4": [
+                    {
+                        "titulo":"O Mundo Está Vendo",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E03B188BC4C5FDAFECA96CDB0A3CD56CCBF777BD904068D2FF936F282286A51C/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.6,
+                        "duracao": "56min",
+                        "sinopse": "John Walker perde a paciência com Sam e Bucky, que seguem investigando Karli Morgenthau",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Verdade",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6E1288A6389A253AC950EB2228A18A17AFCE6B840A3A5FDD8A2455DEC7790841/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.8,
+                        "duracao": "62min",
+                        "sinopse": "John Walker sofre as consequências de suas ações, e Sam e Bucky voltam para os EUA",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Um Mundo, Um povo",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3B3533DE2C75831BB02A480BA3D610DFDF344B588DAB0FA1AE78DFCC3F4B942F/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.7,
+                        "duracao": "54min",
+                        "sinopse": "Quando os Apátridas intensificam seus esforços, Sam e Bucky decidem agir",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 32,
+        "titulo": "Loki",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3AF3175CB9CFF25C84C3404452D44D1248796FDD14993B324ADE0789ADB3BF5E/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 8.2,
+	    "detalhes": [
+            {
+                "sinopse":"O vilão Loki reempreende seu papel como o Deus do Mal em uma nova série que ocorre após os eventos de 'Vingadores: Ultimato'",
+                "duracao": "52min",
+                "data de lacamento":"2021-2023",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao serie":"14",
+                "classificacao temp.1":"14",
+                "direcao":"Michael Waldron",
+                "elenco":"Tom Hiddleston"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Glorioso Propósito",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C277D93C16FF1C820FC0C70336A0C6B7A3ED3DC89441557114081581DD7162A2/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.6,
+                        "duracao": "53min",
+                        "sinopse": "Após roubar o Tesseract em Vingadores: Ultimato, Loki conhece a autoridade de Variância Temporal",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"A Variante",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F8EFDFEDEF5AA1F2DC5051EC7DAE70D36DA0E78BA47A9BB52BADAA86110A3598/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.7,
+                        "duracao": "56min",
+                        "sinopse": "Mobius põe Loki para trabalhar, mas nem todos na AVT gostam da presença, do Deus da Mentira",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Lamentis",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FEB60CA994D89ECE381D01E3A33B1F517A0D566473D38056DA02139712EB1836/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.7,
+                        "duracao": "44min",
+                        "sinopse": "Loki descobre os planos da Variante, mas são seus próprios planos que mudarão o destino de ambos",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"O Evento Nexus",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FF9A852484471DC3F57D17E107FC1640E366B83820CD424AD9BF25BAB26393F3/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 9.0,
+                        "duracao": "50min",
+                        "sinopse": "Tensão e paranoia tomam conta da AVT enquanto Mobius e a Caçadora B-15 procuram por Loky e  Sylvie",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Jornada ao Mistério",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4931E0214A67FFD35B78F4FE24ED82C98E5DA135A4C28F3C989094FE8313F249/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.9,
+                        "duracao": "51min",
+                        "sinopse": "Loki tenta escapar do Vazio, um purgatório desolado onde encontra variantes de si mesmo",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Por Todo.Sempre",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/653D62A256D8E1274B821A02EEF4D88D10326F1303F5F82F9135E15DEEE6D89A/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.6,
+                        "duracao": "48min",
+                        "sinopse": "Em uma corrida contra o tempo no final de temporada, Loki e Sylvie têm um encontro com o destino",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 25,
+        "titulo": "Viúva Negra",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/03C5D7486B8CBF4F63267DED113503C7F2474B23B613E80D87372DDC660A3DCB/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.7,
+	    "detalhes": [
+            {
+                "sinopse":"As aventuras da Viúva Negra",
+                "duracao": "2h 16min",
+                "data de lacamento":"2021",
+                "genero":"Espionagem, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Cate Shortland",
+                "elenco":"Scarlett Johansson, Florence Pugh, David Harbour, O-T Fragbenle, Olga Hurylenko, William Hurt"
+            }
+        ]
+    },
+
+    {
+        "id": 33,
+        "titulo": "What if...?",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1B05A74E67C60E1EDC5F9D74213B1513A9DD6363313E37CAAF573AB7B7305ECC/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.4,
+	    "detalhes": [
+            {
+                "sinopse":"Explorando momentos cruciais do Universo do Cinema da Marvel, levando o público ao território desconhecido",
+                "duracao": "35min",
+                "data de lacamento":"2021",
+                "genero":"Ficção Científica, Antologia, Animação, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "classificacao temp.1":"A14",
+                "elenco":"Jeffrey Wright"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"E se... a capitã Carter fosse a primeira vingadora?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B2238CBB51E5A3F835B428033FACF5DBEB8266F3C06FA463526F2968DDECF2AB/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.0,
+                        "duracao": "36min",
+                        "sinopse": "Quando Steve Rogers fica gravemente ferido, Peggy Carter se torna a primeira supersoldado do mundo",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"E se... T'Challa se tornasse o Senhor das Estrelas?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A86F23508E503C8408078CC484BEAB24BD38C172A3F4CE2EC41B507798084BEF/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.8,
+                        "duracao": "37min",
+                        "sinopse": "OS piratas espaciais conhecidos como Saqueadores sequestram T'Challa em vez de Peter Quill",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"E se... o mundo perdesse heróis mais poderosos?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/93E1B8BEEA902A7D24F81B787FFCF7881E8FFD4E8E13E79787C0D8773FF06EC3/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.8,
+                        "duracao": "35min",
+                        "sinopse": "Nick Fury tenta formar os Vingadores, mas os candidatos se tornam alvo de um assassino em série",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"E se... o Doutor Estranho perdesse seu coração em vez das mãos?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BD15B2CA81757FAA1E2BD70F59ACA46761304236510F723771E9B838C8C952C2/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.8,
+                        "duracao": "38min",
+                        "sinopse": "Desesperado, o Doutor Estranho usa o Olho de Agamotto em uma perigosa tentativa de mudar o passado",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"E se... zumbis?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDA61E193F35FAACB336968934C91B992576C97CC453397535D34DB78BE8B3A7/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.7,
+                        "duracao": "34min",
+                        "sinopse": "Quando os Vingadores são infectados por uma praga zumbi, os heróis sobreviventes procuram a cura",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"E se... Killmonger tivesse resgatado Tony Stark?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3A9F469509BDDBD278F2139C54B4E09DCF72CCD994FB2D0AABDFD0863182232E/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.7,
+                        "duracao": "36min",
+                        "sinopse": "Killmonger, um soldado americano, resgata Tony Stark quando seu Humvee é atacado no Afeganistão",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"E se... Thor fosse filho único?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6B052D5BC9792FE619391C5A504563F1F3AF1937FE0613B6F605CCA0176A9AE1/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.4,
+                        "duracao": "38min",
+                        "sinopse": "Thor, que nunca aprendeu a ser um bom herói, dá uma festa na Terra que foge do controle",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"E se... Ultron tivesse vencido?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3A8A14297F44AE964DB5B4F3A999106C7D392457479092A841955E74409C40CA/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 9.0,
+                        "duracao": "32min",
+                        "sinopse": "Natasha e Clint tentam destruir o robô assassino Ultron após um evento cataclísmico",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"E se... o Vigia quebrasse seu juramento?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C93DEB2BC443C33D1FAF43FB9BEA1F15E02AB60BBDFE9B91112C916383154365/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.4,
+                        "duracao": "37min",
+                        "sinopse": "E se... o Vigia quebrasse seu juramento?",
+                        "classificacao":"A14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 36,
+        "titulo": "Shang-Chi e a Lenda dos Dez anéis",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C3F26629586A60CA28A0F412218C9381EC95A825E02F90A3A02633903CF9B367/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.4,
+	    "detalhes": [
+            {
+                "sinopse":"Shang-Chi é obrigado a confrontar um passado que julgava ter deixado para trás quando é atraído à teia da misteriosa organização conhecida como os Dez Anéis",
+                "duracao": "2h 15min",
+                "data de lacamento":"2021",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Destin Daniel Cretton",
+                "elenco":"Simu Liu, Awkwafina, Tony Leung, Michelle Yeoh, Meng'er Zhang, Ben Kingsley"
+            }
+        ]
+    },
+
+    {
+        "id": 37,
+        "titulo": "Eternos",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BDF7968767CE5AE0D73297B443CB5728A703C90E4856CC23E4D0B54ED848DE48/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.3,
+	    "detalhes": [
+            {
+                "sinopse":"A saga dos Eternos, uma raça de seres imortais que viveram na Terra e transformaram sua historia e civilização",
+                "duracao": "2h 36min",
+                "data de lacamento":"2021",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Chloé Zhao",
+                "elenco":"Gemma Chan, Richard Madden, Kumail Nanjiani, Lia McHugh, Brian Tyree Henry, Lauren Ridloff"
+            }
+        ]
+    },
+
+    {
+        "id": 39,
+        "titulo": "Gavião Arqueiro",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1612B438D3F19578BCBCC62AEB8AC530A3C705A10083DF2A03176F09A512E998/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.5,
+	    "detalhes": [
+            {
+                "sinopse":"Baseado no super-herói da Marvel Comics Hawkeye, focado nas aventuras de Young Avenger e Kate Bishop, que assumiram o papel após o vingador original, Clint Barton",
+                "duracao": "50min",
+                "data de lacamento":"2021",
+                "genero":"Super-Heróis, Ação e Aventura, Amizade",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "criacao":"Jonathan Igla",
+                "elenco":"Jeremy Renner, Hailee Steinfield, Vera Farmiga, Fra Fee, Tony Dalton, Zahn McCLarnon"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Nunca Conheça seus Heróis",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A52383A63BCAA68A0624402FF4A3D37A354298A2A685FFE4F205E0E38F90CE40/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.5,
+                        "duracao": "51min",
+                        "sinopse": "Kate Bishop se vê no meio de uma conspiração criminosa, tirando Gavião Arqueiro da aposentadoria",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Esconde-Esconde",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2DE3CB65D26ED91880D7DE97A0D41F51A8E8B70A3CBA595FB71B15B3591ADEB8/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.6,
+                        "duracao": "52min",
+                        "sinopse": "Clint tenta ajudar Kate a se livrar da Gangue do Agasalho e de um caso de assassinato",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Ecos",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/86DFAA8214BDDB3AC639FC38D10C77EBE1850BE2C3F166F33F611900CD0E93CD/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.2,
+                        "duracao": "44min",
+                        "sinopse": "Após escapar de uma nova ameaça, Clint e Kate se juntam contra uma conspiração criminosa crescente",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Parceiros, Certo?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2318AD2BABDE4FAE487211754837F183B9EBA2522397C484D7A4D7689E6489BC/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.0,
+                        "duracao": "42min",
+                        "sinopse": "Segredos e a dura verdade são revelados, culminando em uma batalha contra dois oponentes",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Ronin",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/74DE59DEA88A81850521A1088FEF52E3525762E95C01ED04C2696FD9981F97CC/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.5,
+                        "duracao": "46min",
+                        "sinopse": "Um conflito quase acaba com a parceria de Clint e Kate, mas ela faz uma descoberta que muda tudo",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Então Já É Natal?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ED96ABFC822DA4EB5C3B2381579A9AC9E5AEE5EB56C2EAC9AC30F93AFF456302/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.0,
+                        "duracao": "62min",
+                        "sinopse": "A parceria de Clint e Kate é testada ao lidarem com as consequências de terem exposto uma conspiração",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 40,
+        "titulo": "Cavaleiro da Lua",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A39869349D4682506766D7B80C1B588CB2F460BAB02E14A4849DD4D500314D1/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Marc Spector, um ex-agente da CIA, recebe uma segunda chance de vida do Deus egípcio Khonshu, que canaliza o poder da lua para se tornar seu avatar na Terra",
+                "duracao": "47min",
+                "data de lacamento":"2022",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "ciracao":"Jeremy Slater",
+                "elenco":"Oscar Isaac, May Calamawy, Khalid Abdalla, Ann Akinjirin, Antonia Salib, F. Murray Abrahams"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"O Problema do Peixe Dourado",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A390B2348E3EB86EED031B269019EA14C8ABD3C3EF86C2A48DB870A46A4934F4/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.1,
+                        "duracao": "48min",
+                        "sinopse": "Steven Grant descobre que pode ser um herói, mas também que divide o corpo com um mercenário",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Invoque o Traje",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C07938BE8B13F93E2963F3FF4A919F24BCD402965FA8D7A0C5DF897412056731/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.9,
+                        "duracao": "53min",
+                        "sinopse": "Uma misteriosa aliada aparece e Steven descobre que está envolvido em uma guerra entre deuses",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"O Tipo Amigável",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7093CAB68F2C8F1E4315097E4A77B9BD04EECE2803CAD235595FFFB5142A7623/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.5,
+                        "duracao": "53min",
+                        "sinopse": "Harrow tem vantagem, mas Marc assume o controle e percorre o Cairo com Layla em busca de pistas",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"A Tumba",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0B7A746BC313D68FC77D61E45C913D7CE64B55542C84037D2A7C7792F153AD38/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.2,
+                        "duracao": "54min",
+                        "sinopse": "Marc e Steven buscam equilíbrio enquanto forças sobrenaturais tentam detê-los",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"O Manicômio",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE319A5BA751933E10F78833BEC56A797F54997FE8235AF8BA7C1559135DAD44/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 8.8,
+                        "duracao": "50min",
+                        "sinopse": "Marc e Steven vasculham suas memórias em busca da verdade",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Deuses e Monstros",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/95BB5EAE91768FF65B14D5189D7BE2F3880AB9C2E49D4685F5663B41E4DA7F20/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.8,
+                        "duracao": "45min",
+                        "sinopse": "O Cavaleiro da Lua ressurge. Marc, Steven e Khonshu devem unir forças para deter Ammit",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 38,
+        "titulo": "Doutor Estranho no Multiverso da Loucura",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F21CF34B2E5F190B5ECED91F694382E5EF2BF0BADC1336FA1DAEA348C33C448B/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"Em 'Doutor Estranho no Multiverso da Loucura', da Marvel Studios, o MCU desbloqueia o Multiverso e expande seus limites ainda mais",
+                "duracao": "2h 8min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Sam Raimi",
+                "elenco":"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Jett Klyne"
+            }
+        ]
+    },
+
+    {
+        "id": 43,
+        "titulo": "Ms. Marvel",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9681C7C3404BEDE1305C98BD6A300BAB911BF870EF239C1817C11E88A6357467/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 6.2,
+	    "detalhes": [
+            {
+                "sinopse":"Da Marvel Studios, esta série original apresenta Kamala Khan, uma adolescente muçulmana de Jersey City. Ela adora jogar videogames e escrever fanfictions, além de ser fã de super-heróis e ter uma imaginação sem limites",
+                "duracao": "49min",
+                "data de lacamento":"2022",
+                "genero":"De adolescente a adulto, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "elenco":"Irman Vellani, Aramis Knight, Saagar Shaikh, Rish Shah, Zenobia Shroff, Mohan Kapur"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Geração 'Por quê?'",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5CACC27BE901E41444B3681FD8FDB4B1A9E6C29F5C59DA6AB138EEB2219CE3E/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.2,
+                        "duracao": "50min",
+                        "sinopse": "Kamala Khan vai à Vingacon e descobre que tem superpoderes",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"O crush",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9C78B8537423648D93698C1C2FC34267EC42CE6193EEEBDA936B3605D365598/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.0,
+                        "duracao": "52min",
+                        "sinopse": "Kamala e Bruno tentam descobrir a origem dos poderes e embarcam em um aventura arriscada",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Destinada",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0965B8345A1E54BD970A003D915A6A9A228DF5067DE04FAB03F405D5BC0295A4/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.0,
+                        "duracao": "48min",
+                        "sinopse": "No casamento de Aamir, Kamala pode enfrentar graves consequências devido a uma decisão",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"De volta às origens",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/61782A29786A272BE8DA02D683DC6A08C3A4F8B0D3B0B985C1BC649093AC6478/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.7,
+                        "duracao": "48min",
+                        "sinopse": "Kamala viaja pelo mundo para descobrir os mistérios do bracelete e a história de sua família",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"O tempo dirá",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/40435382E34E56A88EAF9E37B2E18118D4EB1693C6BED19D498405137CB9F2B5/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.5,
+                        "duracao": "41min",
+                        "sinopse": "O bracelete revela a Kamala segredos sobre sua linhagem familiar e a verdade por trás do véu",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Nada normal",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F10FD03F281D8205406D2A3C7D01BDCF39B6003BF38C110D36D43043D945DA68/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.1,
+                        "duracao": "50min",
+                        "sinopse": "De volta a Jersey City, Kamala luta para salvar seus amigos das garras do Controle de Danos",
+                        "classificacao":"A14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 44,
+        "titulo": "Thor: Amor e Trovão",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D61881E482A27E02371B7ED07762418AFEE61AA428CF7D897225192C5CE997D/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.2,
+	    "detalhes": [
+            {
+                "sinopse":"Thor pede a ajuda de Valkyrie, Korg e a ex-namorada Jane Foster para lutar contra Gorr, o Carniceiro de Deuses, que pretende extingui-los",
+                "duracao": "2h",
+                "data de lacamento":"2022",
+                "genero":"Romance, Comédia, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Taika Waititi",
+                "elenco":"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson, Taika Waititi, Russel Crowe"
+            }
+        ]
+    },
+
+    {
+        "id": 16,
+        "titulo": "Eu sou Groot: Os primeiros passos de Groot",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/98677EE3A75D60E3143B007917E99B1609582899ED0CC74B400FE8F9883AA1F6/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 6.6,
+	    "detalhes": [
+            {
+                "sinopse":"Seguindo os acontecimentos de Guardiões da Galáxia vol1, Baby Groot finalmente está pronto para tentar dar seus primeiros passos fora de seu vaso, aprendendo que se deve andar antes de correr",
+                "duracao": "5min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+
+    {
+        "id": 18,
+        "titulo": "Eu sou Groot: O carinha",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DE558CBBFEFDC60B33AAACC2E500EDA7E5A57D325BF8161700D01CCFFCAB8FF9/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Groot descobre uma civilização em miniatura que acredita que o bebê árvore aparentemente gigantesco seja o herói pelo qual esperavam",
+                "duracao": "5min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+
+    {
+        "id": 19,
+        "titulo": "Eu sou Groot: A busca de Groot",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2403DBF7373A51CF5546A304A522865B76630F3B48E353D383B1910C21549F99/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 6.8,
+	    "detalhes": [
+            {
+                "sinopse":"Groot investiga um ruído estranho que está assombrando o Quadrante, o que resulta numa competição de dança",
+                "duracao": "5min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+
+    {
+        "id": 20,
+        "titulo": "Eu sou Groot: Groot toma banho",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/249A2588FEAD85D03355598815AD04A82CC3AAC4F60D8771397B427B12E62137/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.0,
+	    "detalhes": [
+            {
+                "sinopse":"Todo mundo precisa de um tempo sozinho para relaxar e se lavar, mas as coisas são um pouco diferentes quando se é um bebê Flora Colosi. Suas tentativas de usar brinquedos, velas e bombas de banho acabam levando a uma bagunça folhosa de proporções épicas",
+                "duracao": "5min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+
+    {
+        "id": 21,
+        "titulo": "Eu sou Groot: Obra prima",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1036EAEF8C48052095AC656E7C0298566EE3344847129C1EA188C9674DADC1BD/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Groot pinta um retrato de família de si mesmo com os Guardiões, apenas para descobrir a bagunça que o processo artístico pode ser",
+                "duracao": "5min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "elenco":"Vin Diesel, Bradley Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 42,
+        "titulo": "Mulher-Hulk: Defensora de Heróis",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0C4EF3940104530748D3C7D09FD8740F3809FB381240206C42C644FCE3821895/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 5.2,
+	    "detalhes": [
+            {
+                "sinopse":"Jennifer Walters navega na vida complicada de uma advogada solteira de 30 e poucos anos que também é uma Hulk verde de 6 pés e 7 polegadas com superpoderes",
+                "duracao": "37min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "classificacao temp.1":"12",
+                "criacao":"Jessica Gao",
+                "elenco":"Tatiana Maslany, Jameela Jamil, Josh Segarra, Ginger Gonzaga, Renee Elise Goldsberry, Tim Roth"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Uma Quantidade Normal de Raiva",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1295C0A47E265744F9437AD0D5C674B0F87883EF488BC3DC9FF8FAD4409ADAB8/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.5,
+                        "duracao": "38min",
+                        "sinopse": "O mundo de Jen Walters vira de cabeça para baixo após um acidente deixála com superpoderes",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Diretor Super-Humano",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B72F2F1933E3F3793FC975ED5393408B26128C50A743FBB4FEA09642166E587B/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.2,
+                        "duracao": "31min",
+                        "sinopse": "Jen é contratada por uma grande firma, mas deve atuar como Mulher-Hulk e com um cliente complicado",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"O Povo Contra Emil Blonsky",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4853258430F8AA666F465F5F3042AC4F4ED2063DBAAFF6AB2B33240F93C90128/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "A Mulher-Hulk represente Emil Blonsky, o Abominável, em sua conturbada audiência de condicional",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Não é Magia de Verdade?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CD340FBF58C3C479720A844CE3815A8EA93DCBCC7C01CE715379BDA9176D39B2/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 6.0,
+                        "duracao": "37min",
+                        "sinopse": "Wong, o novo cliente da Mulher-Hulk, está processando um mágico pelo mau uso das artes mágicas",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Malvadinha, Verdinha e de Calça Apertadinha",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2E1D3A622CE6071C4EEB196C3EA7079E096831435E5E473BE6CBB928639CB2D8/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 5.3,
+                        "duracao": "31min",
+                        "sinopse": "A Mulher-Hulk descobre que Titânia é dona do nome 'Mulher-Hulk' e é processada por isso",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Apenas Jen",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8FF4166EDE13C864E9F418AC8CA6461C2E77BC8DCF28152453E853A3729122A3/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 4.7,
+                        "duracao": "31min",
+                        "sinopse": "Jen é da,a de honra no casamento de uma amiga, um evento repleto de problemas para a Mulher-Hulk",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"O Retiro",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EDABE05E6F4904A34CC735FA3133FDE6E7FDF8D7B90145E6CAA2C95ADA27EF4A/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "Jen visita o retiro de Blonsky, faz novos amigos e entra em contato com sua Mulher-Hulk interior",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"Coaxando e Saltando",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1632A4BB4FF1D0A9570EF4D7F8E06FCDB208AFFD5275EE0DAE2DFA88CBFF6A6B/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 7.6,
+                        "duracao": "36min",
+                        "sinopse": "A Mulher-Hulk representa o Sapo, que foi ferido devido a mau funcionamento de seu supertraje",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"De Quem É Essa Série?",
+                        "poster":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/122228CBA98A22C9F26359DBBCD19E852B174EFE15BB7853694F80A56F66BC11/scale?width=400&aspectRatio=NaN&format=jpeg",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "Jen tem problemas com a lei e luta para juntar os pedaços de sua vida",
+                        "classificacao":"12"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 45,
+        "titulo": "Lobisomen na Noite",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E2CC4CA92452BB0C215D92C73CA295089137ABE760DB6E03987F44DEA4E2D2C4/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.2,
+	    "detalhes": [
+            {
+                "sinopse":"Siga um super-herói licantropo que luta contra o mal usando habilidades dadas a ele por uma maldição trazida por sua linhagem",
+                "duracao": "54min",
+                "data de lacamento":"2022",
+                "genero":"Terror, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "direcao":"Michael Giacchino",
+                "elenco":"Gael García Bernal, Laura Donnelly, Harriet Sansom Harris, Kirk R. Thatcher, Eugenie Bondurant, Leonardo Nam"
+            }
+        ]
+    },
+
+    {
+        "id": 41,
+        "titulo": "Pantera Negra: Wakanda para Sempre",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FC6CC76B553C3ED054D1218FE480B649C40FAB7472D46A25F0C963E558F3B416/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.7,
+	    "detalhes": [
+            {
+                "sinopse":"A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa",
+                "duracao": "2h 43min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Ryan Coogler",
+                "elenco":"Letitia Wright, Lupita Nyong'o, Danai Gurira, Angela Bassett, Winston Duke, Tenoch Huerta"
+            }
+        ]
+    },
+
+    {
+        "id": 46,
+        "titulo": "Guardiões da Galáxia: Especial de Festas",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C45221105E011745BD557674E1CAC2C498951355D1C6FFAF45EFC24A81ABCB49/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"As desventuras de The Guardians Star-Lord, Gamora, Drax, Rocket, e Groot em um especial original criado para Disney+",
+                "duracao": "44min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "elenco":"Chris Pratt, Bradley Cooper, Vin Diesel, Dave Bautista, Karen Gillan, Pom Klementieff"
+            }
+        ]
+    }
+]

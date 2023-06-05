@@ -1,0 +1,145 @@
+[
+    {
+        "id": 4,
+        "titulo": "Homem de Ferro",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AD72115B9CDAE873B2234BD0908CEF7B45A2D9AD9C66C699239B46E582F70A8B/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.9,
+        "detalhes": [
+            {
+                "sinopse":"Depois de ficar preso em uma caverna afegã, o engenheiro multimilionário Tony Stark cria uma armadura única para combater o mal",
+                "duracao": "2h 7min",
+                "data de lacamento":"2008",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "elenco":"Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "titulo": "Homem de Ferro 2",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A2C59BE2EF8E3C95BD6A69AE050198F4E44123D4B5C070DA3F62EE076F4AD92/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.9,
+        "detalhes": [
+            {
+                "sinopse":"Agora que o mundo sabe o quem é ele, o Homem de Ferro, Tony Stark deberá lidiar com o homem que quer vingança é que está vinculado com seu pai",
+                "duracao": "2h 5min",
+                "data de lacamento":"2010",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 7,
+        "titulo": "Thor",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/800B9617037560508DDF60257EBCB835A802CABCDA969EF808F41C4C83F8698E/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.0,
+	    "detalhes": [
+            {
+                "sinopse":"O poderoso, mas arrogante deus Thor é expulso de Asgard para viver entre os humanos em Midgard, onde ele logo se torna um de seus melhores defensores",
+                "duracao": "1h 57min",
+                "data de lacamento":"2011",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Kenneth Branagh",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Kat Dennings, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 8,
+        "titulo": "O Consultor (Marvel One Shot)",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A43C515CD4FF8E2B1B5D8F5DFE1C4C81E7D17CB6EA1B79DAB6EB9208DD12B662/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.4,
+	    "detalhes": [
+            {
+                "sinopse":"Os agentes Coulson e Sitwell planejam impedir que o General Thaddeus 'Thunderbolt' Ross interfira com os negócios da S.H.I.E.L.D. com uma pessoa muito especial",
+                "duracao": "3min",
+                "data de lacamento":"2011",
+                "genero":"Drama, Espionagem, Comédia, Super-Heróis",
+                "classificacao":"A10",
+                "direcao":"Leythum",
+                "elenco":"Clark Gregg, Maximiliano Hernández, Deborah Knox"
+            }
+        ]
+    },
+
+    {
+        "id": 1,
+        "titulo": "Capitão América: O Primeiro Vingador",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B9252D7E636001C57A286E647CFA3B4956D0E175270BBE5E909E474FDFAE870E/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.9,
+        "detalhes": [
+            {
+                "sinopse":"Steve Rogers, um soldado militar rejeitado, se transforma em Capitão América depois de tomar uma dose de um soro de super soldado. Mas ser o Capitão América tem um preço quando ele tenta derrubar uma organização terrorista",
+                "duracao": "2h 6min",
+                "data de lacamento":"2011",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joe Johnston",
+                "elenco":"Chris Evans, Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "titulo": "Aconteceu uma coisa engraçada a caminho do martelo de Thor (Marvel One Shot",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FDC59A2FABB1EF8D662365F464B0E2A189ECE9E23DE4325E27105A46C9A7085B/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.1,
+	    "detalhes": [
+            {
+                "sinopse":"O Agente Coulson para numa loja de conveniência e lida com um roubo coincidente",
+                "duracao": "3min",
+                "data de lacamento":"2011",
+                "genero":"Comédia, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Leythum",
+                "elenco":"Clark Gregg, Jessica Manuel, Jeff Prewett, Zach Hudson"
+            }
+        ]
+    },
+
+    {
+        "id": 9,
+        "titulo": "The Avengers: Os Vingadores",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/28A21FFE0778495521587A0A0657E0415C2FDB2739AFF2A535FA8FAE6C95D1BD/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 8.0,
+	    "detalhes": [
+            {
+                "sinopse":"Os heróis mais poderosos da Terra devem se unir e aprender a lutar como uma equipe para impedir que um exército alienígena escravize a humanidade",
+                "duracao": "2h 25min",
+                "data de lacamento":"2012",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "elenco":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 10,
+        "titulo": "Item 47 (Marvel One Shot)",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7067E47F7EFC3E68F7203621485DEE8C197393DB1EBACE931BD64DC55F5E1A24/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.6,
+	    "detalhes": [
+            {
+                "sinopse":"O agente Sitwell está designado para recuperar uma arma Chitauri abandonada sendo usada por um jovem casal que assaltou um banco",
+                "duracao": "11min",
+                "data de lacamento":"2012",
+                "genero":"Drama, Espionagem, Crime, Ação e Aventura",
+                "classificacao":"AL",
+                "direcao":"Louis D'Esposito",
+                "elenco":"Lizzy Caplan, Jesse Bradford, Max Hernandez, Titus Welliver" 
+            }
+        ]
+    }
+]

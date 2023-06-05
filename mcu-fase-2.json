@@ -1,0 +1,145 @@
+[
+    {
+        "id": 12,
+        "titulo": "Homem de Ferro 3",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BA967578F8DC53D79B3278AE0F313499842201D454211060D94BCC66C663CB62/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.1,
+	    "detalhes": [
+            {
+                "sinopse":"Quando o mundo de Tony Stark é atacado pelo terrorista chamado Mandarin, ele comença uma odisseia para reconstruir e retribuir o atacado",
+                "duracao": "2h 12min",
+                "data de lacamento":"2013",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Shane Black",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stephanie Szostak"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "titulo": "Agente Carter (Marvel One Shot)",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3BD511D6CE7BE13FC32445954E18365A852A3FDDE17D2B21F3693FA090EEBDF8/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.5,
+        "detalhes": [
+            {
+                "sinopse":"A agente britânica Peggy Carter se une à nascente organização S.H.I.E.L.D. Enquanto procura o enigmático Zodíaco, a agente Carter luta contra seu chefe misógino e burocrático, o agente Flynn",
+                "duracao": "15min",
+                "data de lacamento":"2013",
+                "genero":"Drama, Espionagem, Suspense, Comédia, Ação e Aventura",
+                "classificacao":"A14",
+                "direcao":"Louis D'Esposito",
+                "elenco":"Hayley Atwell, Bradley Whitford, Dominic Cooper, Shane Black, Neal McDonough, Tim Trobec"
+            }
+        ]
+    },
+
+    {
+        "id": 11,
+        "titulo": "Thor: O Mundo Sombri",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99A5347FC4142ED5ABCAE777504F27D872AFF76FC6EA3FB09D5C28EE971C7C04/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.8,
+	    "detalhes": [
+            {
+                "sinopse":"Quando a médica Jane Foster é amaldiçoada com uma entidade chamada Aether, Thor se vé enfrentado num evento cósmico",
+                "duracao": "1h 55min",
+                "data de lacamento":"2013",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Alan Taylor",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Idris Elba, Christopher Eccleston"
+            }
+        ]
+    },
+
+    {
+        "id": 13,
+        "titulo": "Todos Saúdem o Rei (Marvel One Shot)",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C72F169FCC5CC036DBBD81DDAB9740099F145D9139F63DFFD2199732DCBF9BFC/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.2,
+	    "detalhes": [
+            {
+                "sinopse":"Trancado na prisão, o infame Trevor Slattery concorda em encontrar um documentarista",
+                "duracao": "13min",
+                "data de lacamento":"2014",
+                "genero":"Drama, Suspense, Comédia",
+                "classificacao":"A14",
+                "direcao":"Drew Pearce",
+                "elenco":"Ben Kingsley, Scoot McNairy, Lester Speight, Sam Rockwell, Matt Gerald, Allen Maldonado"
+            }
+        ]
+    },
+
+    {
+        "id": 14,
+        "titulo": "Capitão América: Soldado Invernal",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7712DCEF98BD03B8EC324FD89869951F8CE1774C47E19B548565A581873A343A/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.8,
+	    "detalhes": [
+            {
+                "sinopse":"Steve Roger se junta com a Viúva Negra para tentar deter uma nouva ameaça, um assasino conhecido como Soldado Invernal",
+                "duracao": "2h 18min",
+                "data de lacamento":"2014",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "elenco":"Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grilo"
+            }
+        ]
+    },
+
+    {
+        "id": 15,
+        "titulo": "Guardiões da Galáxia vol.1",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AD2E90FEB72D460A30DD9358D8B7D8698C29016D37E31D327AA6048451FDCC90/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 8.0,
+	    "detalhes": [
+            {
+                "sinopse":"Um grupo de criminosos intergalácticos deve se unir para impedir que um guerreiro fanático com planos de destruir o universo",
+                "duracao": "2h 2min",
+                "data de lacamento":"2014",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace"
+            }
+        ]
+    },
+
+    {
+        "id": 22,
+        "titulo": "Vingadores: Era de Ultron",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5CE67706367152A6C29A08188E2161DF93A5AEBF94FF43D8E2025A2BBE89DD84/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Quando Tony Stark e Bruce Banner tentam iniciar um pacífico programa de manutenção da paz, as coisas dão muito errado e os heróis mais poderosos da Terra deberão, impedir que o vilão Ultron promulgue seu plano terrível",
+                "duracao": "2h 24min",
+                "data de lacamento":"2015",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "elenco":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 23,
+        "titulo": "Homem-Formiga",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CDBD1CD7358EBEC1F8101A1810A7F2F0E8D01BCE1B5E1D567606CD364F85558B/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Armado dum terno com a capacidade para se encolher mas para incrementar sua força, o ladrão Scott Lang deberá ser um herói e ajudar a seu mentor, Hank Pym, para fazer um assalto que salvará ao mundo",
+                "duracao": "2h",
+                "data de lacamento":"2015",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "elenco":"Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip T.I. Harris"
+            }
+        ]
+    }
+]
