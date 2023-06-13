@@ -1,0 +1,87 @@
+[
+    {
+        "id": 47,
+        "titulo": "Homem-Formiga e a Vespa: Quantumania",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ED30241165483F55939D1D3BA74D720A548C544FD443926BECDC6D17F4021D6F/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.1,
+	    "detalhes": [
+            {
+                "sinopse":"Scott Lang e Hope Van Dyne, com Hank Pym e Janet Van Dyne, exploram o Reino Quântico, onde interagem com criaturas estranhas e embarcam em uma aventura que vai além dos limites do que eles achavam possível",
+                "duracao": "2h 6min",
+                "data de lacamento":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "elenco":"Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer, KAthryn Newton, Jonathan Majors"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "titulo": "Pantera Negra: Wakanda para Sempre",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FC6CC76B553C3ED054D1218FE480B649C40FAB7472D46A25F0C963E558F3B416/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.7,
+	    "detalhes": [
+            {
+                "sinopse":"A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa",
+                "duracao": "2h 43min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Ryan Coogler",
+                "elenco":"Letitia Wright, Lupita Nyong'o, Danai Gurira, Angela Bassett, Winston Duke, Tenoch Huerta"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "titulo": "Guardiões da Galáxia: Especial de Festas",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C45221105E011745BD557674E1CAC2C498951355D1C6FFAF45EFC24A81ABCB49/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"As desventuras de The Guardians Star-Lord, Gamora, Drax, Rocket, e Groot em um especial original criado para Disney+",
+                "duracao": "44min",
+                "data de lacamento":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "elenco":"Chris Pratt, Bradley Cooper, Vin Diesel, Dave Bautista, Karen Gillan, Pom Klementieff"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "titulo": "Lobisomen na Noite",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E2CC4CA92452BB0C215D92C73CA295089137ABE760DB6E03987F44DEA4E2D2C4/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal",
+        "nota": 7.2,
+	    "detalhes": [
+            {
+                "sinopse":"Siga um super-herói licantropo que luta contra o mal usando habilidades dadas a ele por uma maldição trazida por sua linhagem",
+                "duracao": "54min",
+                "data de lacamento":"2022",
+                "genero":"Terror, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "direcao":"Michael Giacchino",
+                "elenco":"Gael García Bernal, Laura Donnelly, Harriet Sansom Harris, Kirk R. Thatcher, Eugenie Bondurant, Leonardo Nam"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "titulo": "Thor: Amor e Trovão",
+        "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8D61881E482A27E02371B7ED07762418AFEE61AA428CF7D897225192C5CE997D/scale?width=400&aspectRatio=1.78&format=jpeg",
+        "nota": 6.2,
+	    "detalhes": [
+            {
+                "sinopse":"Thor pede a ajuda de Valkyrie, Korg e a ex-namorada Jane Foster para lutar contra Gorr, o Carniceiro de Deuses, que pretende extingui-los",
+                "duracao": "2h",
+                "data de lacamento":"2022",
+                "genero":"Romance, Comédia, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Taika Waititi",
+                "elenco":"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson, Taika Waititi, Russel Crowe"
+            }
+        ]
+    }
+]
